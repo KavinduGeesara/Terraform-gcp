@@ -8,5 +8,5 @@ iii.terraform plan #check any errors inthe code
 iv. terraform apply #build the infra
   
 Note: There are few pre-requesits 
-i. install terraform in the machine
+i. install terraform in the machine \n 
 ii.install google cloud cli in the machine
