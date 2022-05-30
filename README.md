@@ -7,6 +7,4 @@ For Settup infrastructure using GCP follow below steps.
 3. terraform plan #check any errors inthe code
 4. terraform apply #build the infra
   
-Note: There are few pre-requesits 
-1.install terraform in the machine 
-2.install google cloud cli in the machine
+Note: There are few pre-requesits - install terraform and google cloud cli in the machine 
